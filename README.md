@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
