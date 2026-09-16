@@ -1,25 +1,25 @@
 class Solution {
     int MOD = (int) (1e9 + 7);
 
-    private int solve(int n, int k, int i, int[][] dp) {
-        if (k == 0)
-            return 1;
-        if (i >= n)
-            return 0;
-        if (dp[k][i] != -1)
-            return dp[k][i];
-        long take = 0;
-        for (int j = i + 1; j < n; j++) {
-            take += solve(n, k - 1, j, dp) % MOD;
-        }
-        long skip = solve(n, k, i + 1, dp) % MOD;
-        return dp[k][i] = (int)(skip%MOD + take%MOD);
-    }
-
     public int numberOfSets(int n, int k) {
         int[][] dp = new int[1001][1001];
-        for (int[] arr : dp)
-            Arrays.fill(arr, -1);
-        return solve(n, k, 0, dp)%MOD;
+        //Base case
+        for (int i = 0; i < n; i++) {
+            dp[0][i] = 1;
+        }
+
+        //Bottom UP
+        for (int K = 1; K <= k; K++) {
+            int[] prevRowSum=new int[n+1];
+            for(int x=n-1; x>=0; x--){
+                prevRowSum[x]=(prevRowSum[x+1]+dp[K-1][x])%MOD;
+            }
+            for (int i = n-1; i >= 0; i--) {
+                int take = prevRowSum[i+1]%MOD;
+                int skip = dp[K][i + 1] % MOD;
+                dp[K][i] = (skip + take)%MOD;
+            }
+        }
+        return dp[k][0] % MOD;
     }
 }
