@@ -1,9 +1,18 @@
 class Solution {
+    private int solve(String s, int n, int k, boolean[][] isPalindrome, int[]dp){
+        if(n<k) return 0;
+        if(dp[n]!=-1) return dp[n];
+        dp[n] = solve(s, n-1, k, isPalindrome, dp);
+        int j=n-1;
+        for(int i=0; j-i+1>=k; i++){
+            if(isPalindrome[i][j]) dp[n]=Math.max(dp[n], 1+solve(s, i, k, isPalindrome, dp));
+        }
+        return dp[n];
+    }
     public int maxPalindromes(String s, int k) {
-        int n = s.length();
-        if (k == 1)
-            return n;
-        int[][] dp = new int[n + 1][n + 1];
+        int n=s.length();
+        int[] dp = new int[n+1];
+        Arrays.fill(dp, -1);
         boolean[][] isPalindrome = new boolean[n][n];
         for(int l=1; l<=n; l++){
             for(int i=0; i+l<=n; i++){
@@ -15,22 +24,6 @@ class Solution {
                 }
             }
         }
-        for (int i = n - 1; i >= 0; i--) {
-            for (int j = n - 1; j >= 0; j--) {
-                if (isPalindrome[i][j]) {
-                    int take = 1 + ((j+k<=n)?dp[j + 1][j + k]:0);
-                    int grow = dp[i][j + 1];
-                    int slide = dp[i + 1][j + 1];
-
-                    dp[i][j] = Math.max(take, Math.max(grow, slide));
-                } else {
-                    int grow = dp[i][j + 1];
-                    int slide = dp[i + 1][j + 1];
-
-                    dp[i][j] = Math.max(dp[i][j], Math.max(grow, slide));
-                }
-            }
-        }
-        return dp[0][k-1];
+        return solve(s, n, k, isPalindrome, dp);
     }
 }
