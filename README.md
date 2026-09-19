@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Two Pointers
 |  |
 | ------- |
