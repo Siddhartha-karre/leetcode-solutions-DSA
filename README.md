@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0032-longest-valid-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0063-unique-paths-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -106,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
