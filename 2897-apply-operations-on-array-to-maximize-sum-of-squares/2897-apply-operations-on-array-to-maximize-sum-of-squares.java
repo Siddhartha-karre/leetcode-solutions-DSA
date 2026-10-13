@@ -1,29 +1,25 @@
 class Solution {
     public int maxSum(List<Integer> nums, int k) {
-        int[] bitCount = new int[32];
+        int MOD=1_000_000_007;
+        int[] bitCount= new int[32];
         
-        for (int num : nums) {
-            for (int i = 0; i < 32; i++) {
-                if ((num & (1 << i)) != 0) {
-                    bitCount[i]++;
-                }
+        for(int num: nums){
+            for(int i=0; i<32; i++){
+                if(((num>>i)&1)==1) bitCount[i]+=1;
             }
         }
-        
-        long MOD = 1_000_000_007;
-        long totalSum = 0;
-        
-        for (int i = 0; i < k; i++) {
-            long currentNum = 0;
-            for (int bit = 0; bit < 32; bit++) {
-                if (bitCount[bit] > 0) {
-                    currentNum |= (1L << bit);
-                    bitCount[bit]--;
+
+        long res=0L;
+        for(int i=0; i<k; i++){
+            long num=0;
+            for(int bit=0; bit<32; bit++){
+                if(bitCount[bit]>0){
+                    num|=(1<<bit);
+                    bitCount[bit]-=1;
                 }
             }
-            totalSum = (totalSum + (currentNum * currentNum) % MOD) % MOD;
+            res=(res+ (num*num)%MOD)%MOD;
         }
-        
-        return (int) totalSum;
+        return (int)res;
     }
 }
