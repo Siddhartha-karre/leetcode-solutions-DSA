@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0835-image-overlap](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0063-unique-paths-ii) |
 | [0835-image-overlap](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1463-cherry-pickup-ii) |
 ## Hash Table
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1254-number-of-closed-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -195,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
