@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0645-set-mismatch) |
 | [0835-image-overlap](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1254-number-of-closed-islands) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0645-set-mismatch) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0645-set-mismatch](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0645-set-mismatch) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
