@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0485-max-consecutive-ones) |
 | [0835-image-overlap](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1254-number-of-closed-islands) |
