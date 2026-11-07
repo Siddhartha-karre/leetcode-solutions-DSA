@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1882-process-tasks-using-servers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1929-concatenation-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2747-count-zero-request-servers) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bit Manipulation
