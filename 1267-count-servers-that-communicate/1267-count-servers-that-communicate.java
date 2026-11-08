@@ -1,13 +1,13 @@
 class Solution {
     public int countServers(int[][] grid) {
-        Map<Integer, Integer> freq = new HashMap<>();
-        int servers =0, m=grid.length, n=grid[0].length;
+        int m=grid.length, n=grid[0].length, servers = 0;
+        int[] rowCount = new int[m], colCount = new int[n];
 
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
-                if(grid[i][j]==1) {
-                    freq.put(i, freq.getOrDefault(i, 0)+1);
-                    freq.put(j+m, freq.getOrDefault(j+m, 0)+1);
+                if(grid[i][j]==1){
+                    rowCount[i]++;
+                    colCount[j]++;
                 }
             }
         }
@@ -15,10 +15,11 @@ class Solution {
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
                 if(grid[i][j]==1){
-                    if(freq.getOrDefault(i, 0)>=2 || freq.getOrDefault(j+m, 0)>=2) servers++;
+                    if(rowCount[i]>1 || colCount[j]>1) servers++;
                 }
             }
         }
+
         return servers;
     }
 }
