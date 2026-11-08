@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1470-shuffle-the-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1463-cherry-pickup-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
@@ -240,12 +243,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
@@ -263,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
