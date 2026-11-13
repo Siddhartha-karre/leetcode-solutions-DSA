@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0239-sliding-window-maximum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0239-sliding-window-maximum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2747-count-zero-request-servers) |
 ## Sorting
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0239-sliding-window-maximum) |
 | [1882-process-tasks-using-servers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -290,4 +293,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
