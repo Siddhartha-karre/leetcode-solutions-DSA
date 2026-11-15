@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1882-process-tasks-using-servers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1929-concatenation-of-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3525-find-x-value-of-array-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
