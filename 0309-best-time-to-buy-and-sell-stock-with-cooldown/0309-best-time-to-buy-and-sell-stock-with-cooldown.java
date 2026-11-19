@@ -1,19 +1,19 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int n = prices.length;
-        int[][] dp = new int[n][2];
-
-        dp[n - 1][0] = prices[n - 1];
+        int dp0 = prices[n - 1];
+        int dp1 = 0;
+        int dp2 = 0;
 
         for (int idx = n - 2; idx >= 0; idx--) {
+            int temp1 = Math.max(-prices[idx] + dp0, dp1);
+            int temp0 = Math.max(prices[idx] + dp2, dp0);
 
-            dp[idx][1] = Math.max(-prices[idx] + dp[idx + 1][0],
-                    dp[idx + 1][1]);
-
-            dp[idx][0] = Math.max(prices[idx] + (idx+2<n ? dp[idx + 2][1] : 0),
-                    dp[idx + 1][0]);
+            dp2 = dp1; 
+            dp1 = temp1;
+            dp0 = temp0;
         }
 
-        return dp[0][1];
+        return dp1;
     }
 }
