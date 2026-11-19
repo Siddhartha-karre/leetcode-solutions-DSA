@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1929-concatenation-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3886-sum-of-sortable-integers) |
