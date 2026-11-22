@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
