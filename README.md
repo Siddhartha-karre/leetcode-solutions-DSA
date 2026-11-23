@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1463-cherry-pickup-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1470-shuffle-the-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -335,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Siddhartha-karre/leetcode-solutions-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
