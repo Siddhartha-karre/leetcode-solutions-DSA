@@ -1,20 +1,8 @@
 class Solution {
-    int n;
-    int minPrice;
-    private int buyOrSkip(int idx, int budget, int[][] items, int[] factors, int[][] dp){
-        if(idx == n) return budget/minPrice;
-        
-        if(dp[idx][budget] != -1) return dp[idx][budget];
-
-        int skip = buyOrSkip(idx+1, budget, items, factors, dp);
-        int buy = 0;
-        if(items[idx][1] <= budget) buy= buyOrSkip(idx+1, budget-items[idx][1], items, factors, dp) + factors[idx]+ 1;
-        return dp[idx][budget] = Math.max(buy, skip);
-    }
     public int maximumSaleItems(int[][] items, int budget) {
-        this.n = items.length;
+        int n = items.length;
         int[] factors = new int[n];
-        minPrice = Integer.MAX_VALUE;
+        int minPrice = Integer.MAX_VALUE;
 
         for(int i=0; i<n; i++){
             minPrice = Math.min(minPrice, items[i][1]);
@@ -22,10 +10,25 @@ class Solution {
                 if(i!=j && items[j][0]%items[i][0] == 0) factors[i]+=1;
             }
         }
-        int[][] dp = new int[n][budget+1];
-        for(int[] arr: dp) Arrays.fill(arr, -1);
-
         if(budget<minPrice) return 0;
-        return buyOrSkip(0, budget, items, factors, dp);
+
+        int[][] dp = new int[n+1][budget+1];
+
+        //Base case: 
+        for(int cost = budget; cost>=minPrice; cost--){
+            dp[n][cost] = cost/minPrice;
+        }
+
+        for(int idx = n-1; idx>=0; idx--){
+            int price = items[idx][1];
+            int gain = factors[idx]+1;
+            for(int cost = budget; cost >= 0; cost--){
+                dp[idx][cost] = dp[idx+1][cost];
+                if(cost>=price) dp[idx][cost] = Math.max(dp[idx][cost], dp[idx+1][cost-price]+gain);
+            }
+        }
+
+        
+        return dp[0][budget];
     }
 }
