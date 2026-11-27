@@ -12,23 +12,22 @@ class Solution {
         }
         if(budget<minPrice) return 0;
 
-        int[][] dp = new int[n+1][budget+1];
+        int[] dp = new int[budget+1];
 
         //Base case: 
         for(int cost = budget; cost>=minPrice; cost--){
-            dp[n][cost] = cost/minPrice;
+            dp[cost] = cost/minPrice;
         }
 
         for(int idx = n-1; idx>=0; idx--){
             int price = items[idx][1];
             int gain = factors[idx]+1;
             for(int cost = budget; cost >= 0; cost--){
-                dp[idx][cost] = dp[idx+1][cost];
-                if(cost>=price) dp[idx][cost] = Math.max(dp[idx][cost], dp[idx+1][cost-price]+gain);
+                if(cost>=price) dp[cost] = Math.max(dp[cost], dp[cost-price]+gain);
             }
         }
 
         
-        return dp[0][budget];
+        return dp[budget];
     }
 }
